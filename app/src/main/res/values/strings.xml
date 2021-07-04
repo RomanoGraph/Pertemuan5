@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+</resources>
